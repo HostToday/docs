@@ -1,0 +1,9 @@
+site_name: host.today Docs
+site_description: mojo.io Documentation
+copyright: Lossless Digital UG 2015
+pages:
+- Home: 'index.md'
+- Framework:
+    - 'host.today - Get Started': 'mojo/getstarted.md'
+    - 'host.today - Docker Images': 'mojo/coffee.md'
+theme: readthedocs
