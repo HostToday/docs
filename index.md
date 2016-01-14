@@ -1,4 +1,4 @@
-Host.Today Docs
+# Host.Today Docs
 
 Welcome to the Host.Today Docs.
 
